@@ -7,9 +7,9 @@
 На тестирование затрачено: 6 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/Godse361/Java.-Lesson-1/issues/1
-* https://github.com/Godse361/Java.-Lesson-1/issues/2
-* https://github.com/Godse361/Java.-Lesson-1/issues/3
+* [Номер карты "VISA: 4485920913630132595" невозможно использовать для оплаты](https://github.com/Godse361/Java.-Lesson-1/issues/1)
+* [Номер карты "Discover: 6011228559323272502" невозможно использовать для оплаты](https://github.com/Godse361/Java.-Lesson-1/issues/2)
+* [Номер карты "American Express: 3410579076292978" невозможно использовать для оплаты](https://github.com/Godse361/Java.-Lesson-1/issues/3)
 
 **Описание процесса тестирования**
 
